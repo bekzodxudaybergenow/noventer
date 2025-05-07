@@ -3,6 +3,7 @@
 :root {
   --background: #0E041D;
   --main-color: #5A00DB;
+  --accent-color: #5A00DB;
   --font-inter: var(--inter)
 }
 
@@ -12,6 +13,9 @@
   }
   .bg-background {
     background-color: var(--background);
+  }
+  .bg-accent-color {
+    background-color: var(--accent-color);
   }
 }
 

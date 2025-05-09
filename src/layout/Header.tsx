@@ -11,8 +11,8 @@ export default function Header() {
             <Link className="order-2 sm:order-1 md:order-1 w-[140px] lg:w-[160px] hover:opacity-[.7] duration-300 active:opacity-[1]" href={'/'}><Image src={logo} alt="Logo" /></Link>
             <nav className="hidden md:flex order-2 items-center gap-x-8">
               <Link className="hover:text-[#5A00DB] duration-300"  href="/">Bosh sahifa</Link>
-              <Link className="hover:text-[#5A00DB] duration-300"  href="/">Portfolio</Link>
-              <Link className="hover:text-[#5A00DB] duration-300"  href="/">Xizmatlar</Link>
+              <Link className="hover:text-[#5A00DB] duration-300"  href="/portfolio">Portfolio</Link>
+              <Link className="hover:text-[#5A00DB] duration-300"  href="/service">Xizmatlar</Link>
               <Link className="hover:text-[#5A00DB] duration-300"  href="/">Aloqa</Link>
             </nav>
             <div className="order-1 ml-0 sm:order-2 sm:ml-auto md:ml-0 lg:flex items-center gap-x-4">

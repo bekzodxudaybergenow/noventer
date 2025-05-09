@@ -69,9 +69,11 @@ export default function Home() {
         </div>
       </section>
       <section className="about">
-        <div className="bg-accent-color px-[10px] py-4 mb-8 xl:px-[5%] xl:py-8">
-          <h2 className="text-[30px] font-bold leading-[30px] xl:text-[42px] mb-2">Biz haqimizda</h2>
-          <p>Qisqacha ma'lumot</p>
+        <div className="bg-accent-color px-[10px] py-4 mb-8 xl:py-8">
+          <div className="container">
+            <h2 className="text-[30px] font-bold leading-[30px] xl:text-[42px] mb-1">Biz haqimizda</h2>
+            <p>Qisqacha ma'lumot</p>
+          </div>
         </div>
         <div className="container">
           <ul className="grid grid-cols-1 gap-8 mx-3 sm:grid-cols-2 md:grid-cols-2 md:mx-0 lg:grid-cols-3">

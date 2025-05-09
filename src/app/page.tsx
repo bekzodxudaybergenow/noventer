@@ -72,7 +72,7 @@ export default function Home() {
         <div className="bg-accent-color px-[10px] py-4 mb-8 xl:py-8">
           <div className="container">
             <h2 className="text-[30px] font-bold leading-[30px] xl:text-[42px] mb-1">Biz haqimizda</h2>
-            <p>Qisqacha ma&aposlumot</p>
+            <p>Qisqacha ma'lumot</p>
           </div>
         </div>
         <div className="container">
@@ -81,7 +81,7 @@ export default function Home() {
               <Image className="w-full" width={300} height={300} src={about1} alt="" />
               <div className="pt-5 pb-12 px-4 xl:px-6">
                 <h2 className="font-[600] text-[26px]">Boshlanishi</h2>
-                <p className="font-[400] leading-[20px] text-[16px] xl:pr-20">Biz --dan boshladik va-- larnioldimizga maqsad qilib qo&aposydik</p>
+                <p className="font-[400] leading-[20px] text-[16px] xl:pr-20">Biz --dan boshladik va-- larnioldimizga maqsad qilib qo'ydik</p>
               </div>
             </li>
             <li className="rounded-[8px] bg-white/10 backdrop-blur-sm overflow-hidden">
@@ -113,7 +113,7 @@ export default function Home() {
               <div className="">
                 <h4 className="font-[600] text-[20px] mb-4 md:mb-2">Tourmad loyihasi</h4>
                 <p className="font-[300] text-[16px] leading-[20px] mb-5">
-                  Tourmad - O&aposzbekistonning ichki turizimini rivojlantirish maqsadida ishlab chiqilgan bu web sayt o'zida bir necha service larni o'z ichiga jamlagan bo'lib ulardan: Mehmonxona xizmari, Restoran xizmati, Gitlik xizmati, Mashinada sayohat qilish uchun haydovchilar xizmari va boshqa ko'plab xizmarlarni o'z ichiga oladi. Bundan tashqari saytdan o'zingiz uchun qayerlarga boorish kerakligini va qayerlarda xizmat ko'satish qancha ekanligini ko'rishingiz va o'zingiz uchun oldindan buyurtma qilishingiz mumkin.
+                  Tourmad - O'zbekistonning ichki turizimini rivojlantirish maqsadida ishlab chiqilgan bu web sayt o'zida bir necha service larni o'z ichiga jamlagan bo'lib ulardan: Mehmonxona xizmari, Restoran xizmati, Gitlik xizmati, Mashinada sayohat qilish uchun haydovchilar xizmari va boshqa ko'plab xizmarlarni o'z ichiga oladi. Bundan tashqari saytdan o'zingiz uchun qayerlarga boorish kerakligini va qayerlarda xizmat ko'satish qancha ekanligini ko'rishingiz va o'zingiz uchun oldindan buyurtma qilishingiz mumkin.
                 </p>
                 <button className="lg:flex px-3 py-2 rounded-[8px] bg-white/30 backdrop-blur-sm hover:bg-white/50 duration-300 cursor-pointer">Loyihani ko'rish</button> 
               </div>

@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).\
 
-Vercel: [View](https://street-sport.vercel.app/)\
+Vercel: [View](https://noventer-seven.vercel.app/)\
 Figma: [View](https://www.figma.com/design/XUKF6ZjElft1g83KRjAduT/8-oy-Imtihon--Copy-?node-id=0-1&p=f&t=ar8IAgQeg8IONxDj-0)
 
 Asosiy: Typescript, Reactjs, Tailwind dan foydalanildi
